@@ -83,5 +83,49 @@ Make target 10 and find the first element equal to 10 or greater
       l = 4
    // After loop, l = 4 is out of bounds as expected
 
-Find where the value of a function changes 
-------------------------------------------
+Where the value of a function changes 
+-------------------------------------
+
+Let's say we have a monotonically increasing function f(x). It is entirely
+nondecreasing i.e. f'(x) >= 0 in the range of x.
+
+.. image:: _static/monotonic_increasing_f(x).png
+
+We can binary search f(x) just like a sorted array. Suppose f(x) starts off
+invalid and eventually becomes valid. Let's define it as ok(x).
+
+.. image:: _static/monotonic_increasing_ok(x).png
+
+Binary search can find the smallest value of x where ok(x) holds true. We use
+the exit state just like searching for the *closest* value above. We search for
+the first input element x that returns ok(x) as true.
+
+.. code-block:: cpp
+
+   int l = a, r = b;
+   while (l <= r) {
+      int m = (l+r)/2;
+      if (ok(m)) {
+         // valid at m, but shift left to get smallest value
+         r = m-1;
+      }
+      else l = m+1;
+   }
+   // After loop, l = x holds the answer
+
+Time complexity
+^^^^^^^^^^^^^^^
+
+Binary search this way runs in O(ok(x)) * O(logn) time. For example, if ok(x)
+is O(n) the resultng runtime is O(nlogn). Normal binary search is O(logn) as 
+ok(x) is O(1) because it takes constant time to check if the target is found.
+
+Practice problems
+^^^^^^^^^^^^^^^^^
+
+* `Codeforces Round #733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine)) C. Pursuit`_
+* `Kick Start Round A 2020 Workout`_
+
+.. _Codeforces Round #733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine)) C. Pursuit: https://codeforces.com/contest/1530/problem/C
+.. _Kick Start Round A 2020 Workout: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b#problem 
+
