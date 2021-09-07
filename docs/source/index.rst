@@ -11,6 +11,7 @@ Home page
    :caption: Contents:
 
    welcome
+   binarysearch
 
 ..
     Indices and tables
