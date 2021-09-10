@@ -14,6 +14,6 @@ deploy:
     acl: public_read
     bucket: "wilsja.me"
     edge: true # opt in to dpl v2
-    local_dir: /docs/build/html
+    local_dir: /build/html
     on:
         all_branches: main
