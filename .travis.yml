@@ -9,10 +9,10 @@ script:
 deploy:
     provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID
-    secret_access_key: $AWS_SECRET_KEY
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
     bucket: "wilsja.me"
     skip_cleanup: true # keep build 
     edge: true # opt in to dpl v2
-    local_dir: build/html
+    local_dir: ./build/html
     on:
         all_branches: main
