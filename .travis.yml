@@ -11,7 +11,9 @@ deploy:
     acl: public_read
     access_key_id: $AWS_ACCESS_KEY+ID
     secret_access_key: $AWS_SECRET_KEY
-    bucket: wilsja.me/
+    bucket: "wilsja.me"
     edge: true # opt in to dpl v2
     local_dir: /docs/build/html
     upload0-dir: travis-builds
+    on:
+        all_branches: main
