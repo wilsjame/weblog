@@ -6,3 +6,10 @@ install:
 script:
   - cd docs &&
     make html
+deploy:
+    provider: s3
+    access_key_id: AWS_ACCESS_KEY+ID
+    secret_access_key: AWS_SECRET_KEY
+    bucket: arn:aws:s3:::wilsja.me
+    edge: true # opt in to dpl v2
+    local_dir: /docs/build/html
