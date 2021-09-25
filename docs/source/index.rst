@@ -12,6 +12,7 @@ Home page
 
    welcome
    binarysearch
+   sitesetup
 
 ..
     Indices and tables
