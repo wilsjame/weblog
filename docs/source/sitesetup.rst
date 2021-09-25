@@ -38,7 +38,7 @@ Add entry
    $ vi sitesetup.rst
    $ vi index.rst
 
-In this index.rst, sitesetup will come after the binarysearch entry in the html.
+Given this index.rst snippet, sitesetup will appear after the binarysearch entry in the build html.
 
 .. code-block:: rst
    :emphasize-lines: 6
@@ -61,8 +61,8 @@ Travis-CI
 ^^^^^^^^^
 
 Sign up with your GitHub account and add a .travis.yml file to the root of the 
-repository. With Every main branch push to GitHub, Travis builds and deploys
-the site html to a public facing S3 bucket. 
+repository. Every main branch push to GitHub, Travis builds and deploys the
+site html to a public facing S3 bucket. 
 
 .. code-block:: yaml
 
@@ -87,14 +87,14 @@ the site html to a public facing S3 bucket.
        on:
            branch: main
 
-The AWS (IAM) access key pair environment variables are set on the settings
-page on travis-ci.com. 
+The AWS (IAM) access key environment variables are set on travis-ci.com from
+the project's settings page.
 
 Host and DNS
 ^^^^^^^^^^^^
 
-The s3 -> domain step involves redirecting requests to a domain name purchased
-from a registrar to the S3 bucket serving site html. Set up varies depending on
+The s3 -> domain step involves redirecting requests to a domain name, purchased
+from a registrar, to the S3 bucket serving site html. Set up varies depending on
 one's choice of hosting and domain name services. I registered this domain with
 Namecheap, but consider keeping hosting and domain name services under the same
 umbrella for likely (well, hopefully!), easier integration and maintenance.
