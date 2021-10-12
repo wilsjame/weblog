@@ -13,6 +13,7 @@ Home page
    welcome
    binarysearch
    sitesetup
+   counting
 
 ..
     Indices and tables
