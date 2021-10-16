@@ -110,3 +110,16 @@ k = 0
 n! / 0!(n - 0)! = 1
 
 Checks out! The one subset is the empty set.
+
+Practice problems
+^^^^^^^^^^^^^^^^^
+
+* `Educational Codeforces Round 11 D. Number of Parallelograms`_
+* `Educational Codeforces Round 115 (Rated for Div. 2) D. Training Session`_
+* `Codeforces Round #272 (Div. 2) B. Dreamoon and WiFi`_
+* `Codeforces Round #261 (Div. 2) (Div. 2) B. Pashmak and Flowers`_
+
+.. _Educational Codeforces Round 11 D. Number of Parallelograms: https://codeforces.com/problemset/problem/660/D
+.. _Educational Codeforces Round 115 (Rated for Div. 2) D. Training Session: https://codeforces.com/problemset/problem/1598/D
+.. _Codeforces Round #272 (Div. 2) B. Dreamoon and WiFi: https://codeforces.com/problemset/problem/476/B
+.. _Codeforces Round #261 (Div. 2) (Div. 2) B. Pashmak and Flowers: https://codeforces.com/problemset/problem/459/B
