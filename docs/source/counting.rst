@@ -14,41 +14,33 @@ counting without generating each case separately.
 Permutations
 ------------
 
-Start by counting the number of ways n elements can be ordered. 
+Start by counting the number of ways n elements can be ordered or permutated.
 
-Say n = 4
+Say n = 4:
 
-_ _ _ _
+_ _ _ _  
 
-There are four elements to choose from for the first position
+4 _ _ _ there are four elements to choose from for the first position
 
-4 _ _ _
+4 3 _ _ in the second position, three elements to choose from
 
-In the second position, three elements to choose from
+4 3 2 _ and so on 
 
-4 3 _ _
+4 3 2 1 until the last position with one element left to choose
 
-And so on 
-
-4 3 2 _
-
-Until the last position with one element left to choose
-
-4 3 2 1
-
-Multiplying each stage 
+Multiplying each stage: 
 
 4*3*2*1 = 24 ways four elements can be ordered
 
-Generalized for n elements 
+Generalized for n elements: 
 
 n! = n * (n - 1) * (n - 2) * ... * 1 = ways to order n elements
 
 Combinations
 ------------
 
-Many counting problems distilled are: Count the number of ways to choose k sized
-subsets from a set of n elements.
+Many counting problems distilled are, "Count the number of ways to choose k 
+sized subsets from a set of n elements."
 
 Start by counting all permutations of n elements with n!. 
 
