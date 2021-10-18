@@ -1,7 +1,7 @@
 .. figure:: _static/simpsons_count_von_count.png
    :width: 269 
 
-   *The Count counting coconuts*
+   *The Count counts coconuts*
 
 Counting
 ========
@@ -14,7 +14,7 @@ counting without generating each case separately.
 Permutations
 ------------
 
-Start by counting the number of ways n elements can be ordered or permutated.
+Count the number of ways n elements can be ordered or permutated.
 
 Say n = 4:
 
