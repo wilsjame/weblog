@@ -14,6 +14,7 @@ Home page
    binarysearch
    sitesetup
    counting
+   sweetbutter
 
 ..
     Indices and tables
