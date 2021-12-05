@@ -1,5 +1,9 @@
 os: linux
 dist: xenial
+addons:
+  apt:
+    packages:
+      - pandoc # nbsphinx markdown parser
 language: python
 python:
   - "3.8"
