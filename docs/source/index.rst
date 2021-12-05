@@ -14,7 +14,7 @@ Home page
    binarysearch
    sitesetup
    counting
-   sweetbutter
+   _ipynb/butter/butter.ipynb
 
 ..
     Indices and tables
