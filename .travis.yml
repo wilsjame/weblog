@@ -1,11 +1,14 @@
 os: linux
 dist: xenial
+addons:
+  apt:
+    packages:
+      - pandoc # nbsphinx markdown parser
 language: python
 python:
   - "3.8"
 install:
   - pip install -r requirements.txt
-  - sudo apt install pandoc
 script:
   - cd docs &&
     make html
