@@ -35,6 +35,8 @@ pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+plumbum==1.7.1
+ply==3.11
 prompt-toolkit==3.0.23
 ptyprocess==0.7.0
 Pygments==2.10.0
