@@ -16,7 +16,7 @@ From scratch, clone and start a Python virtual environment.
    $ pip install -r requirements.txt
    $ sudo apt install pandoc
 
-   pandoc is a markup converter required by nbshpinx
+   pandoc is a markup converter required by nbsphinx
    to output Jupyter Notebooks in html.
 
 Build html
