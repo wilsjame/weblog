@@ -13,7 +13,7 @@ Table of contents
 
 .. toctree::
    :caption: Blog
-   :maxdepth: 2
+   :maxdepth: 1
 
    _ipynb/butter/butter.ipynb
    counting

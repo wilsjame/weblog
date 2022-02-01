@@ -50,6 +50,10 @@ exclude_patterns = []
 #
 html_theme = 'sphinxdoc'
 html_sidebars = { '**': ['globaltoc.html', 'sourcelink.html'] }
+html_theme_options = {
+        'globaltoc_collapse': True,
+        'globaltoc_maxdepth': 2,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
