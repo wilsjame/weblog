@@ -3,23 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Home page
+Table of contents
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
    welcome
-   binarysearch
+
+.. toctree::
+   :caption: Blog
+   :maxdepth: 1
+
    sitesetup
-   counting
    _ipynb/butter/butter.ipynb
-
-..
-    Indices and tables
-    ==================
-
-        * :ref:`genindex`
-        * :ref:`modindex`
-        * :ref:`search`
+   counting
+   binarysearch
