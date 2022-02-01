@@ -15,7 +15,7 @@ Table of contents
    :caption: Blog
    :maxdepth: 1
 
-   sitesetup
    _ipynb/butter/butter.ipynb
    counting
+   sitesetup
    binarysearch
