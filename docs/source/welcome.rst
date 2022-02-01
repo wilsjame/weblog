@@ -10,8 +10,9 @@ applications for Microsoft's HoloLens and vibrational analysis tools.
 .. image:: _static/selfie.jpg
    :align: center
 
-I enjoy programming, math, reading, barbecue, and being outside with friends. 
-I returned to Portland, OR in 2020 where I spend my free time working on becoming a better
-`developer <https://github.com/wilsjame>`_ and `volunteering <https://www.cscoregon.org/volunteer>`_.
+I enjoy programming, math, reading, swimming, barbecue, and outdoor activities. 
+I returned to Portland, OR in 2020 where I spend my free time solving 
+`CP <https://en.wikipedia.org/wiki/Competitive_programming>`_ `puzzles <https://github.com/wilsjame/misc-algos>`_
+and `volunteering <https://www.cscoregon.org/volunteer>`_.
 
 ^_^
