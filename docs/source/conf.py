@@ -50,6 +50,7 @@ exclude_patterns = []
 #
 html_theme = 'sphinxdoc'
 html_title = ''
+html_favicon = '_static/glider.png'
 html_sidebars = { '**': ['globaltoc.html', 'sourcelink.html'] }
 html_theme_options = {
         'globaltoc_collapse': True,
