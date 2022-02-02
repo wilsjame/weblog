@@ -1,3 +1,4 @@
+
 Research
 ========
 
@@ -6,11 +7,15 @@ I developed the software used in augmented reality studies conducted at the
 `WE lab <https://www.niu.edu/we-lab/>`_. Source code is linked. Code for tools used in 
 other projects is not linked, but some can be found on my GitHub along with manuals. 
 
+.. contents:: 
+   :depth: 2
+   :local:
+
 Papers --- augmented reality
 ----------------------------
 
-*The effects of target size and error rate on the cognitive demand and stress during augmented reality interactions*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The effects of target size and error rate on the cognitive demand and stress during augmented reality interactions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/ar_error_trial_design.png
    :alt: Augmented reality error tasks expirement design.
@@ -24,8 +29,8 @@ Abstract
 
 This study investigated the effects of target size and error rate on cognitive demand during augmented reality (AR) interactions. In a repeated-measures laboratory study, twenty participants performed two AR tasks (omni-directional pointing and cube placing) with different target sizes and error rates. During the AR tasks, we measured cerebral oxygenation using functional near-infrared spectroscopy (fNIRS), perceived workload using the NASA-TLX questionnaire, stress using the Short Stress State Questionnaire, and task performance (task completion time). The results showed that the AR tasks with more interaction errors increased cerebral oxygenation, perceived workload, and task completion time while the target size significantly affected physical demand and task completion time. These results suggest that appropriate target sizes and low system errors may reduce potential cognitive demand in AR interactions.
 
-*Evaluation of the biomechanical stress in the neck and shoulders during augmented reality interactions*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Evaluation of the biomechanical stress in the neck and shoulders during augmented reality interactions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/ar_collage.png
    :alt: 3-D cube and omni-directional pointing augmented reality tasks.
@@ -44,8 +49,8 @@ This study aimed to characterize the biomechanical stresses in the neck and shou
 Papers --- whole body vibrations
 --------------------------------
 
-*The effects of different seat suspension types on occupants' physiologic responses and task performance: implications for autonomous and conventional vehicles*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The effects of different seat suspension types on occupants' physiologic responses and task performance: implications for autonomous and conventional vehicles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 .. figure:: _static/wbv_tasks.png
@@ -61,8 +66,8 @@ Abstract
 
 This study evaluated whole body vibration (WBV), non-driving task performance, muscle activity, and self-reported discomfort and motion sickness between different seat suspension systems in a simulated vehicle environment. In a repeated-measures laboratory experiment where field-measured 6-degree-of-freedom (6-DOF) passenger vehicle vibration was replicated on a 6-DOF motion platform, we measured WBV, non-driving task (pointing, typing, web-browsing, and reading) performance, low back (erector spinae), shoulders (trapezius) and neck (splenius capitis and sternocleido-mastoid) muscle activity, and self-reported discomfort and motion sickness from three different seats: a vertical (z-axis) active suspension, multi-axial active suspension [vertical (z-axis) + lateral (y-axis)], and a static suspension-less seat (current seat type in all passenger cars). Both the vertical and multi-axial active suspension seats significantly reduced the vertical WBV exposure (p < 0.0001). However, no significant differences were found in non-driving task performance (p > 0.30), muscle activity (p > 0.22), self-reported discomfort (p > 0.07), and motion sickness (p = 0.53) across three different seats. These findings indicate that the active suspension seats may have potential to future reduce the vertical and total WBV exposures, respectively. However, none of the suspension seats demonstrate any significant benefits on the non-driving task performance, muscle activity, self-reported discomfort and motion sickness measures in a simulated vehicle environment.
 
-*Postural balance effects from exposure to multi-axial whole-body vibration in mining vehicle operation*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Postural balance effects from exposure to multi-axial whole-body vibration in mining vehicle operation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/wbv_posture.png
    :alt: Whole body vibration physical responses to different suspension systems.
@@ -78,8 +83,8 @@ Abstract
 Twenty participants (18 males and 2 females) completed postural stability assessments before and after 4-h exposure to whole body vibration (WBV) in four experimental conditions: (a) vertical-dominant WBV with vertical passive air suspension, (b) multi-axial WBV with vertical passive air suspension, (c) multi-axial WBV with multi-axial active suspension, and (d) no WBV condition. Center of pressure (COP)-based postural sway measures significantly increased following multi-axial WBV exposure. Increase in COP velocity and displacement following multi-axial WBV was significantly higher than the increase in all the other exposure conditions. However, no significant differences between the WBV conditions were observed in functional limits of stability and anticipatory postural adjustments. While our results show standing balance to be impaired following the multi-axial WBV exposure of off-road mining vehicles, dynamic stability across a broader range of conditions needs to be understood to causally link postural stability decrements to increased fall-risks associated with off-road vehicle operators.
 
 
-*Effect of whole-body vibration exposures on physiological stresses: Mining heavy equipment applications*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Effect of whole-body vibration exposures on physiological stresses: Mining heavy equipment applications
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/wbv_planet_earth.png
    :alt: Biomarker whole body vibration study. Subjects watched Planet Earth to stay alert and relaxed.
