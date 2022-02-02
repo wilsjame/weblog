@@ -9,8 +9,9 @@ Table of contents
 .. toctree::
    :maxdepth: 1
 
-   welcome
+   aboutme
    research
+   tutoring
 
 .. toctree::
    :caption: Blog
