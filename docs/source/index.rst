@@ -10,6 +10,7 @@ Table of contents
    :maxdepth: 1
 
    welcome
+   research
 
 .. toctree::
    :caption: Blog
