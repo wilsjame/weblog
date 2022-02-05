@@ -2,12 +2,12 @@
 Research
 ========
 
-I developed the software used in augmented reality studies conducted at the
-`OEB lab <https://health.oregonstate.edu/labs/oeb>`_ and 
-`WE lab <https://www.niu.edu/we-lab/>`_. Source code is linked. Code for tools used in 
-other projects is not linked, but some can be found on my GitHub along with manuals. 
+I developed software used in augmented reality studies conducted at the
+`OEB lab <https://health.oregonstate.edu/labs/oeb>`_ and
+`WE lab <https://www.niu.edu/we-lab/>`_. Source code is linked. Code for tools used in
+other projects is not linked, but some can be found on my GitHub along with manuals.
 
-.. contents:: 
+.. contents::
    :depth: 2
    :local:
 

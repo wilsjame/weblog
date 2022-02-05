@@ -19,7 +19,7 @@ If you or your student needs some help with any of these classes, send me an ema
 Share with me:
 
 * **The name of the student, contact information, class name, school, teacher.**
-* **Your prefered day and time.**
+* **Your preferred day and time.**
 
 **Tutoring rate for classes other than AP, IB, College**
 
