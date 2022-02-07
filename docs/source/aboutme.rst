@@ -5,7 +5,8 @@ I graduated with a BS in Mechanical Engineering from Oregon State University in 
 From 2016 to 2018 I worked at the `OEB lab <https://health.oregonstate.edu/labs/oeb>`_ 
 as a research assistant. I completed a postbacc in Computer Science in 2018 and
 continued work at the OEB lab as a software developer focused on augmented reality
-applications for Microsoft's HoloLens and vibrational analysis tools.
+applications for Microsoft's HoloLens and vibrational analysis tools. From 2019 to 2020
+I worked at OptiTrack on their motion capture products.
 
 .. image:: _static/selfie.jpg
    :align: center
