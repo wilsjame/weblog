@@ -18,7 +18,7 @@ I meet students at:
 * **Parents are always welcome. Parents need to follow the same Covid-19 protocols.**
 
 If you or your student needs some help with any of these classes, send me an 
-email `jgwilson1214@gmail.com <jgwilson1214@gmail.com>`_.
+email at `jgwilson1214+tutoring@gmail.com <jgwilson1214+tutoring@gmail.com>`_.
 Share with me:
 
 * **The name of the student, contact information, class name, school, teacher.**
