@@ -12,7 +12,7 @@ applications for Microsoft's HoloLens and vibrational analysis tools.
 
 I enjoy programming, math, reading, swimming, barbecue, and outdoor activities. 
 I returned to Portland, OR in 2020 where I spend my free time solving 
-`CP <https://en.wikipedia.org/wiki/Competitive_programming>`_ `puzzles <https://github.com/wilsjame/misc-algos>`_
+`CP puzzles <https://en.wikipedia.org/wiki/Competitive_programming>`_
 and `volunteering <https://www.cscoregon.org/volunteer>`_.
 
 ^_^
