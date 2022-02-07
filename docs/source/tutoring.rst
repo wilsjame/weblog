@@ -6,6 +6,8 @@ I focus on the following:
 * **Math**
  **Algebra 3-4, precalculus, and calculus.**
 
+* **NGSS Physics**
+
 I meet students at:
 
 * **A convenient library.**
@@ -15,7 +17,8 @@ I meet students at:
 * **We will wear medical grade masks.**
 * **Parents are always welcome. Parents need to follow the same Covid-19 protocols.**
 
-If you or your student needs some help with any of these classes, send me an email. 
+If you or your student needs some help with any of these classes, send me an 
+email `jgwilson1214@gmail.com <jgwilson1214@gmail.com>`_.
 Share with me:
 
 * **The name of the student, contact information, class name, school, teacher.**
