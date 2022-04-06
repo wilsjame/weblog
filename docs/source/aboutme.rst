@@ -13,7 +13,6 @@ I worked at OptiTrack on their motion capture products.
 
 I enjoy programming, math, reading, swimming, barbecue, and outdoor activities. 
 I returned to Portland, OR in 2020 where I spend my free time solving 
-`CP puzzles <https://en.wikipedia.org/wiki/Competitive_programming>`_
-and `volunteering <https://www.cscoregon.org/volunteer>`_.
+programming puzzles and `volunteering <https://www.cscoregon.org/volunteer>`_.
 
 ^_^
