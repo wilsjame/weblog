@@ -1,7 +1,7 @@
 Ethereum node 
 =============
 
-How to run an Ethereum node on WSL 2 that stores
+Steps to run an Ethereum node on WSL 2 that stores
 its blockchain data on a Windows mounted disk. 
 
 Items
