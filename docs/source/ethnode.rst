@@ -84,13 +84,41 @@ node and, when synced, effectively the whole Ethereum network.
 Final sync stats
 ^^^^^^^^^^^^^^^^
 
-Sleeping on it TBD
+There be no graphs or metrics here. I only synced in the evenings, 
+starting and stopping the process by hand. 509 GB of block data (and counting)
+later we are synced. Power consumption for the initial download was ~30 watts
+greater than running the node while synced. 
 
+=======      ======
+State        Watts*
+=======      ====== 
+Syncing       160
+Synced        130
+Idle PC        80
+=======      ======
+
+*\*Estimates are from a P3 Kill A Watt meter.*
+
+PGE's monthly energy rates for my location: 
+
+============      =========
+Charge            $ per kWh
+============      ========= 
+Usage              $0.06690
+Transmission       $0.00243
+Distrubtion        $0.04694
+TOTAL              $0.11627
+============      =========
+
+Assuming continuous uptime: 1 month * 30 days * 24 hours * 130 watts * 1 kWh / 1000 watts * $0.11627 = $10.88
+
+Include a list of adjustments that add ~7.59% to the final amount.
+
+$10.88 + $10.88 * 0.0759 = **$11.71 monthly cost to run a node** 
 
 Calls with Web3.py
 ^^^^^^^^^^^^^^^^^^
-Coming soon
-
+Coming soon 
 
 Acknowledgments
 ^^^^^^^^^^^^^^^
