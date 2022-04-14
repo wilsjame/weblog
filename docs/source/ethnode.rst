@@ -114,7 +114,7 @@ Assuming continuous uptime: 1 month * 30 days * 24 hours * 130 watts * 1 kWh / 1
 
 Include a list of adjustments that add ~7.59% to the final amount.
 
-$10.88 + $10.88 * 0.0759 = **$11.71 monthly cost to run a node** 
+$10.88 * 1.0759 = **$11.71 monthly cost to run a node** 
 
 Calls with Web3.py
 ^^^^^^^^^^^^^^^^^^
