@@ -116,9 +116,25 @@ Include a list of adjustments that add ~7.59% to the final amount.
 
 $10.88 * 1.0759 = **$11.71 monthly cost to run a node** 
 
-Calls with Web3.py
-^^^^^^^^^^^^^^^^^^
-Coming soon 
+Web3.py
+^^^^^^^
+We can interact with our local node using the Web3.py python library.
+
+.. code-block:: python
+
+   from web3 import Web3
+
+   web3 = Web3(Web3.HTTPProvider('http://127.0.0.1:8545'))
+   assert(web3.isConnected() == True)
+
+   d = web3.eth.syncing
+   print(d['currentBlock'])
+   print(d['highestBlock'])
+
+.. code-block::
+ 
+   14588491 // CurrentBlock is the point at which synchronisation has presently reached. 
+   14588595 // HighestBlock is the latest known block number.
 
 Acknowledgments
 ^^^^^^^^^^^^^^^
