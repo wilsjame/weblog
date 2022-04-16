@@ -17,6 +17,7 @@ Table of contents
    :caption: Blog
    :maxdepth: 1
 
+   photos
    ethnode
    _ipynb/butter/butter.ipynb
    counting
