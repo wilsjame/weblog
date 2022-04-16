@@ -37,6 +37,17 @@ Photos
    .. image:: _static/photos/032.jpg
    .. image:: _static/photos/020.jpg
 
+.. image:: _static/photos/019.jpg
+.. image:: _static/photos/029.jpg
+.. image:: _static/photos/026.jpg
+.. image:: _static/photos/014.jpg
+.. image:: _static/photos/013.jpg
+.. image:: _static/photos/005.jpg
+.. image:: _static/photos/021.jpg
+.. image:: _static/photos/016.jpg
+.. image:: _static/photos/006.jpg
+.. image:: _static/photos/007.jpg
+
 To print all meta information in an image try using `exiftool <https://exiftool.org/>`_! 
 
 .. code-block::
