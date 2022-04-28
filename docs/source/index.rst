@@ -23,3 +23,16 @@ Table of contents
    counting
    sitesetup
    binarysearch
+
+.. image:: https://raw.githubusercontent.com/darkreader/darkreader.github.io/master/images/darkreader-mascot.svg
+   :target: https://darkreader.org/
+   :width: 42
+
+.. image:: _static/octocat.png
+   :target: https://github.com/wilsjame
+   :width: 42
+
+.. image:: _static/codeforces.png
+   :target: https://codeforces.com/profile/wilsjame
+   :width: 42
+
