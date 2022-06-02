@@ -2,17 +2,16 @@ About me
 ========
 
 I graduated with a BS in Mechanical Engineering from Oregon State University in 2016.
-From 2016 to 2018 I worked at the `OEB lab <https://health.oregonstate.edu/labs/oeb>`_ 
+From 2016 to 2018 I worked at `OEB Lab <https://health.oregonstate.edu/labs/oeb>`_ 
 as a research assistant. I completed a postbacc in Computer Science in 2018 and
-continued work at the OEB lab as a software developer focused on augmented reality
-applications for Microsoft's HoloLens and vibrational analysis tools. From 2019 to 2020
-I worked at OptiTrack on their motion capture products.
+continued work at OEB Lab on augmented reality applications for Microsoft's
+HoloLens and vibrational analysis tools. From 2019 to 2020 I worked at OptiTrack on 
+their motion capture products. As of May 2022 I am working at Searchspring in Portland.
 
 .. image:: _static/selfie.jpg
    :align: center
 
 I enjoy programming, math, reading, swimming, barbecue, and outdoor activities. 
-I returned to Portland, OR in 2020 where I spend my free time solving 
-programming puzzles and `volunteering <https://www.cscoregon.org/volunteer>`_.
+If you're bored, you can read one of my ageing blog posts.
 
 ^_^
