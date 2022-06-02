@@ -1,6 +1,8 @@
 Tutoring
 ========
 
+As of May 2022 my tutoring schedule is full.
+
 I focus on the following:
 
 * **Math**
